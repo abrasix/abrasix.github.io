@@ -1,0 +1,1 @@
+Fui escrever um parágrafo antes de fazer uma "<ul>" e quis fazer assim: "<p>Aqui está um exemplo de "<ul>":</p> mas n da certo, omo posso usar esse <ul> dentro do texto pra aparecer no parágrafo?

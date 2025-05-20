@@ -1,0 +1,42 @@
+html {
+    font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    font-family: "Open Sans", sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+    background-color: #9d766f;
+}
+h1 {
+    color: goldenrod;
+    font-family: "GodOfWar", Arial, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px 0;
+    text-shadow: 10px 10px 5px black;
+}
+h2 {
+    color: rgb(255, 45, 45);
+    text-align: center;
+    font-size: 20px;
+}
+p {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: whitesmoke;
+}
+ul {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: whitesmoke;
+}
+body {
+    width: 720px;
+    margin: 0 auto;
+    background-color: #2b1609;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}  
